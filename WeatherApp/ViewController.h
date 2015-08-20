@@ -1,13 +1,15 @@
 //
-//  WeatherModel.m
+//  ViewController.h
 //  WeatherApp
 //
 //  Created by Smita Tamboli on 8/18/15.
 //  Copyright (c) 2015 Cybage. All rights reserved.
 //
 
-#import "WeatherModel.h"
+#import <UIKit/UIKit.h>
 
-@implementation WeatherModel
+@interface ViewController : UIViewController
+
 
 @end
+
